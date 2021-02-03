@@ -1,4 +1,4 @@
-# Siginficant wave modelling using LSTM and CNN ![waves](wave.png)  ![waves](wave.png)  ![waves](wave.png)
+# Significant wave modelling using LSTM and CNN ![waves](wave.png)  ![waves](wave.png)  ![waves](wave.png)
 This repos present an example of jupyter notebook for modeling significant wave using data from buoy station.
 
 This models were made using Keras for the neural network part, and there's two notebooks,
